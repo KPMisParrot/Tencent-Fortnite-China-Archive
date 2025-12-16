@@ -109,7 +109,7 @@ Around Launcher v202-v203 Tencent Started Using Randomly Generated Keys? To Acce
 
 The Only Archived Installer Link From The Early Releases Of Fortnite China Is
 
-"https://cdn-fn.hk.ol.epicgames.com/downloadtool/Fortnite_4132537_20180618.exe" Dated June 18, 2018 (Chapter 1 Season 4)
+"https://cdn-fn.hk.ol.epicgames.com/downloadtool/Fortnite_4132537_20180618.exe" Dated June 18, 2018 (C1S4)
 
 - The Link Is Down But It Can Be Accessed With The Wayback Machine
 
