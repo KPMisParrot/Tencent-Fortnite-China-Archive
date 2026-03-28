@@ -65,7 +65,6 @@ https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.143_10018_tgod_sig
 https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.144_10018_tgod_signed.exe
 https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.145_10018_tgod_signed.exe
 https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.149_10018_tgod_signed.exe
-https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.151_10018_tgod_signed.exe
 https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.152_10018_tgod_signed.exe
 https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.154_10018_tgod_signed.exe
 https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.156_10018_tgod_signed.exe
